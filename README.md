@@ -28,7 +28,7 @@ rm(my_age)
 
 ## Data Types
 |Type|Example|
-|----|------:|
+|----|------|
 |Numeric| 100,200,3.5,5.9|
 |Character| "Hello"|
 |Logical| TRUE,FALSE|
